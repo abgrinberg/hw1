@@ -21,4 +21,5 @@
 
 Так как мы здесь все живем в веке *цифровых технологий* (и вообще как бы у нас тут цифровая грамотность), нужно оставить свои **контакты**:
 + [Почта](mailto:aliceimrage@gmail.com)
-- [Telegram](https://t.me/dandelionhands)
+- [Telegram](https://t.me/dandelionhands "aka всеми люимый анонимный мэссенджер")
++ [soundcloud](https://soundcloud.com/user-426520391 "ну, мало ли")
